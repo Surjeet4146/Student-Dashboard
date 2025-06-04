@@ -1,0 +1,41 @@
+```json
+{
+  "project_info": {
+    "project_number": "project_number",
+    "project_id": "project-id",
+    "storage_bucket": "project-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "APP_ID",
+        "android_client_info": {
+          "package_name": "com.studentdashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "CLIENT_ID",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "CLIENT_ID",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+```
