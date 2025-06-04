@@ -12,11 +12,6 @@ A comprehensive and modern Android application built for students to manage thei
 - **MVVM Architecture**: Clean separation of concerns for maintainability
 - **Material Design**: Sleek and intuitive user interface
 
-## 📱 Screenshots
-
-<!-- Add screenshots here when available -->
-*Screenshots coming soon...*
-
 ## 🛠️ Tech Stack
 
 - **Language**: Java
